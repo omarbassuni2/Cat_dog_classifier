@@ -1,3 +1,5 @@
+TO VIEW THE .ipynb IF IT'S NOT WORKING HERE CLICK ON THE LINK:
+https://nbviewer.jupyter.org/github/omarbassuni2/Cat_dog_classifier/blob/master/cat_dog_classifier.ipynb
 There is two ways of installing and using this program the first is:-
 
 -	Download pets dataset from this link
